@@ -1,1 +1,12 @@
-
+<?xml version="1.0" encoding="UTF-8" ?>
+<bag_report>
+<Summary>The slider picture is not fully displayed at the slider after clicking the 'Results' tab</Summary>
+<Description>The slider picture is not fully displayed at the slider after clicking the 'Results' tab</Description> 
+<Steps_to_reproduce>
+ <Step_1>Open the site http://clgcms.qa-testlab.com</Step_1>
+ <Step_2>Click the 'Results' tab of the main menu</Step_2>
+<Step_3>Take a look at the slider pictures</Step_3>
+</Steps_to_reproduce>
+<Actual_result>The slider picture is not fully displayed at the slider after clicking the 'Results' tab</Actual_result>,
+<Expected_result>The slider picture is fully displayed at the slider after clicking the 'Results' tab</Expected_result>
+</bag_report>
